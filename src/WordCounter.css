@@ -1,0 +1,25 @@
+/* src/WordCounter.css */
+
+.WordCounter {
+    max-width: 600vh; /* Set a maximum width to minimize the Word Counter */
+    margin: auto;
+    padding: 10px;
+    background-color:yellowgreen;
+  }
+  
+  textarea {
+    width: 100%; /* Make the textarea fill the available width */
+    margin-bottom: 10px;
+  }
+  
+  button {
+    padding: 10px;
+    background-color: #61dafb;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #4fa3d1;
+  }
